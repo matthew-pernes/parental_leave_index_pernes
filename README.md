@@ -152,10 +152,13 @@ To uncover the "hidden truth" behind corporate policies, I utilized a 100% Stack
 Based on the trends identified in this analysis, I propose the following strategic actions for job seekers, corporate leaders, and industry observers:
 
 **For Job Seekers: Look Beyond the "Total Weeks" Headline**
+
 Candidates should utilize the "Paid-to-Unpaid Ratio" identified in this dashboard to evaluate the true value of a benefit package. A 16-week fully paid policy (The "Fully Funded" Model) offers more long-term financial security than a 28-week policy that is 92% unpaid. Priority should be given to "Disruptor" companies in traditional industries who are using progressive leave to differentiate their culture.
 
 **For Corporate Leaders: Close the "Paternity Gap" to Retain Talent**
+
 With 90% of companies still stuck in the "Critical Gap" (0-4 weeks) for paternity leave, there is a massive opportunity for firms to differentiate themselves. Companies looking to improve their "Family Support Score" should prioritize matching paternity tiers to maternity tiers. This not only supports gender equity but prevents the "Motherhood Penalty" by normalizing caregiving across the entire workforce.
 
 **For Industry Benchmarking: Establish an 80% "Pay Floor"**
+
 The data reveals that the most supportive industries (Telemedicine, Philanthropy) have set a competitive floor of 80% salary replacement. To remain competitive in the global talent market, companies in lagging sectors—such as Utilities and Foodservice—must move away from statutory minimums and toward a model that prioritizes financial stability alongside job protection.
