@@ -88,6 +88,8 @@ Conversely, industries such as **Utilities, Foodservice (Hospitality), Agrochemi
 
 *2. How does the ratio of Paid vs. Unpaid leave vary across the top-scoring companies?*
 
+---
+
 <img width="392" height="102" alt="image" src="https://github.com/user-attachments/assets/0589769d-7939-48fc-9f9a-a71588343f8d" />
 
 Companies such as **Grant Thornton, LAC-Group, Flatiron Health, American Income Life, and ASML** rank as the top-scoring companies for leave periods, offering 90+ weeks for parental leave. LAC-Group and American Income Life both offer 50+ weeks of paid parental leave. On the other hand, companies such as Grant Thornton, Flatiron Health, and ASML offer extended unpaid leave beyond their parental absence also offering an average of 27 weeks for paternal leave.
