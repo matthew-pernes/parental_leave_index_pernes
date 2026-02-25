@@ -86,13 +86,15 @@ The **Telemedicine (Healthcare), Bus (Transportation), and Philanthropy** indust
 
 Conversely, industries such as **Utilities, Foodservice (Hospitality), Agrochemical (Natural Resources)** lag significantly behind, with an average of 1 week paid maternity leave, relying heavily on unpaid leave to meet minimum legal requirements.
 
-*2. How does the ratio of Paid vs. Unpaid leave vary across the top-scoring companies?*
-
 ---
+
+*2. How does the ratio of Paid vs. Unpaid leave vary across the top-scoring companies?*
 
 <img width="392" height="102" alt="image" src="https://github.com/user-attachments/assets/0589769d-7939-48fc-9f9a-a71588343f8d" />
 
 Companies such as **Grant Thornton, LAC-Group, Flatiron Health, American Income Life, and ASML** rank as the top-scoring companies for leave periods, offering 90+ weeks for parental leave. LAC-Group and American Income Life both offer 50+ weeks of paid parental leave. On the other hand, companies such as Grant Thornton, Flatiron Health, and ASML offer extended unpaid leave beyond their parental absence also offering an average of 27 weeks for paternal leave.
+
+---
 
 *3. What is the 'Paternity Gap' within our dataset, and does a high Maternity score always guarantee a high Paternity score?*
 
@@ -119,11 +121,15 @@ A high maternity score does not guarantee a high paternity score. Many companies
 
 Only three companies belong in the ‘Market Leading’ category for both paternity and maternity leave. 
 
+---
+
 *4. Are there specific companies that are 'disrupting' their industry by offering benefits far above their sector average?*
 
 By filtering the data by industry, I identified 'Disruptor' companies like WeWork that offer benefits far exceeding their sector’s average. For example, while the Business industry typically provides only 5 weeks of leave, WeWork offers 14 weeks for maternity leave and 15 weeks for paternity leave. This places them in a much higher benefit tier than their direct competitors. The analysis reveals that these outliers use aggressive parental leave policies as a strategic tool to attract top talent in industries where support is traditionally scarce. 
 
 While other Business companies do offer 48+ weeks for parental leave, this is exclusive only for maternal leave. 
+
+---
 
 *5. Does a high 'Family Support Score' correlate more strongly with the length of leave or the fact that the leave is fully paid?*
 
