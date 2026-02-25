@@ -63,3 +63,19 @@ I prepared this dataset through the following steps:
 9. Added a ‘Family Support Score’ which shows the average of maternity and paternity leave in weeks.
 10. Constructed a Quick Measure to total the amount of paid weeks and unpaid weeks of all companies for a side by side comparison analysis.
 11. Reclassified companies who were previously labelled ‘N/A’ into their respective sectors using manual research and Power Query conditional logic.
+
+## Data Analysis
+
+This section aims to answer the following questions. Answers will be attached below their respective inquiry.
+
+*Which industries act as the 'Gold Standard' for parental leave, and which are lagging significantly behind?*
+
+The ‘Family Support Score’ equation was used to identify the top three (‘Gold Standard’) and bottom three (lagging) industries for parental leave. The Family Support Score is written in the formula as follows:
+
+Family Support Score = (parental_leave[Avg Paid Maternity Leave] + [Avg Paid Paternity Leave])/2
+
+Top 3 industries: <img width="387" height="45" alt="image" src="https://github.com/user-attachments/assets/e659d55c-48f9-44af-8c6b-02bba81c3859" />
+
+Bottom 3 industries:<img width="382" height="45" alt="image" src="https://github.com/user-attachments/assets/98969411-fce6-4931-9475-e836a3170823" />
+
+
