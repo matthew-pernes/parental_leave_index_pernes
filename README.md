@@ -8,12 +8,12 @@ Technical Tools Used: Power Query, DAX, Power BI Desktop
 
 ## Table of Contents
 
-1. [The Problem](the-problem)
-2. [Our Goal](our-goal)
-3. [Data Preparation](data-preparation)
-4. [Data Analysis](data-analysis)
-5. [Data Visualization](data-visualization)
-6. [Proposed Action](proposed-action)
+1. The Problem
+2. Our Goal
+3. Data Preparation
+4. Data Analysis
+5. Data Visualization
+6. Proposed Action
 
 ## The Problem
 
