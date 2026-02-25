@@ -6,6 +6,8 @@
 
 Technical Tools Used: Power Query, DAX, Power BI Desktop
 
+Dashboard can be found on [parental_leave_dashboard_pernes.pbix](parental_leave_dashboard_pernes.pbix)
+
 ## Table of Contents
 
 1. The Problem
