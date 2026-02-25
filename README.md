@@ -74,8 +74,11 @@ The ‘Family Support Score’ equation was used to identify the top three (‘G
 
 Family Support Score = (parental_leave[Avg Paid Maternity Leave] + [Avg Paid Paternity Leave])/2
 
-Top 3 industries: <img width="387" height="45" alt="image" src="https://github.com/user-attachments/assets/e659d55c-48f9-44af-8c6b-02bba81c3859" />
+Top 3 industries: 
 
-Bottom 3 industries:<img width="382" height="45" alt="image" src="https://github.com/user-attachments/assets/98969411-fce6-4931-9475-e836a3170823" />
+<img width="387" height="45" alt="image" src="https://github.com/user-attachments/assets/e659d55c-48f9-44af-8c6b-02bba81c3859" />
+
+Bottom 3 industries:
+<img width="382" height="45" alt="image" src="https://github.com/user-attachments/assets/98969411-fce6-4931-9475-e836a3170823" />
 
 
